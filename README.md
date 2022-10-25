@@ -5,13 +5,13 @@ ReactJS Webinar Front-end.
 
 2. Configure your .env file following the example file sample.env.
 
-5. While in the root directory, run npm install. 
+3. While in the root directory, run npm install. 
 
-6. Next, run npm start to launch the front-end.
+4. Next, run npm start to launch the front-end.
 
-7. Don't forget to use the file db.sql inside the folder webinar-db to create your database.
+5. Don't forget to use the file db.sql inside the folder webinar-db to create your database.
 
-8. There you go!
+6. There you go!
 
 ## Admin portal
 
