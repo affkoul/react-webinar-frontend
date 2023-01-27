@@ -27,4 +27,4 @@ ReactJS Webinar Front-end.
 
 Webinar User Web App By [GAC DEV](https://geniusandcourage.com)
 
-![Webinar User Web App](https://hlwsdtech.com/images/webinar.png)
+![Webinar User Web App](https://hlwsdtech.com:8081/images/webinar.png)
